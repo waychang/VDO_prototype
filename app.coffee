@@ -8,6 +8,7 @@ Framer.Defaults.Animation =
 	time: 0.3
 	curve: "ease"
 
+Canvas.backgroundColor = "hsl(190,40%,85%)"
 
 # =========================== 
 
